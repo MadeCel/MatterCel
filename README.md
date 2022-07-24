@@ -9,7 +9,7 @@ About
 
 - 📄 Know about my experiences My Linkedin: https://www.linkedin.com/in/celiosilvajr/
 
-[![MatterCel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mattercel)](https://github.com/anuraghazra/github-readme-stats)
+[![MatterCel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mattercel-dev-inicio&show_icons=true&theme=dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
