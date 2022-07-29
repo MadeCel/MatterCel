@@ -3,11 +3,11 @@ About
 <h1 align="center">Hi 👋, I'm Célio</h1>
 <h3 align="center">A passionate full stack developer with focus in web developer and cloud computing</h3>
 
-- 🌱 I’m currently learning **Javascript, python, PHP, Ruby and ERP Cloud**
+- 🌱 I’m currently learning **Javascript, nodejs, python and ERP Cloud**
 
 - 📫 How to reach me **celio.ps.jr@outlook.com**
 
-- 📄 Know about my experiences My Linkedin: https://www.linkedin.com/in/celiosilvajr/
+- 📄 Know about my experiences, my Linkedin: https://www.linkedin.com/in/celiosilvajr/
 
 ![MatterCel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mattercel&show_icons=true&theme=dark)
 
