@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Célio</h1>
 <h3 align="center">A passionate full stack developer with focus in web developer and cloud computing</h3>
 
-- 🌱 I’m currently learning **Javascript, nodejs, python and ERP Cloud**
+- 🌱 I’m currently learning **Javascript, react, nodejs, python and ERP Cloud**
 
 - 📫 How to reach me **celio.ps.jr@outlook.com**
 
