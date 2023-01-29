@@ -10,8 +10,8 @@
 
 - 📄 Know more about my experiences, my Linkedin: https://www.linkedin.com/in/celiosilvajr/
 
-![MatterCel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatterCel&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatterCel&show_icons=true&theme=dark)
+![MadeCel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadeCel&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadeCel&show_icons=true&theme=dark)
 
 ##
 
@@ -29,4 +29,4 @@
 
 <p>Let's go up and get it right!  😁 </p>
 
-![Snake animation](https://github.com/MatterCel/MatterCel/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MadeCel/MadeCel/blob/output/github-contribution-grid-snake.svg)
