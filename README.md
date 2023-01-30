@@ -29,4 +29,4 @@
 
 <p>Let's go up and get it right!  😁 </p>
 
-![Snake animation](https://github.com/MadeCel/MadeCel/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MatterCel/MatterCel/blob/output/github-contribution-grid-snake.svg)
